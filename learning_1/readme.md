@@ -1,4 +1,4 @@
-# Animation Lesson
+# Pygame Introduction.
 
 # Process Description
 - Pygame has a display surface, which is an image that is visible on the screen.
